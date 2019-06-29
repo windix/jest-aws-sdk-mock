@@ -1,0 +1,16 @@
+{
+  "name": "jest-aws-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Windix Feng <windix@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.485.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
